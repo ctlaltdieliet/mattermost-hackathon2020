@@ -21,8 +21,8 @@ Or you can use it in STEM-education
 -  Webcam or Pi-cam
 -  a Mattermost-instance with the Jitsi Plugin installed
 -  a Mattermost Personal Access Token 
--  or a Kookye Rover Tank and a L298n dual motor bridge, 9v battery, small breadboard, 330 ohm resistor
--  or a Pimoroni sts roving robot kit and an explorer hat pro expansion
+-  or a [Kookye Rover Tank](https://www.amazon.com/KOOKYE-Platform-Stainless-Raspberry-Electronic/dp/B08G4HMW89/) and a L298n dual motor bridge, 9v battery, small breadboard, 330 ohm resistor
+-  or a [Pimoroni sts roving robot kit and an explorer hat pro expansion](https://www.amazon.com/Pimoroni-STS-Build-Raspberry-Roving/dp/B01HZFRROE)
 
 
 ## How does it work
@@ -34,15 +34,25 @@ If you send up,down,left,right,stop the rover reacts.
 If you have leds, you also have on,off,blink to control the leds.
 
 ## Installation
-### Python script
+### Python script rover.py
 -  Install python 3
 -  Install the Mattermost Driver (pip3 install mattermostdriver)
+
+### Python script pimoroni.py
+-  Install python 3
+-  Install the Mattermost Driver (pip3 install mattermostdriver)
+
 
 ### Kookye Tank
 - L298N Motor left: GPIO Pin 17 = in1, GPIO Pin22 in2, GPIO Pin 27= len
 - L298N Motor right: GPIO Pin 24 = in1, GPIO Pin23 in2, GPIO Pin 25= len
 - Leds GPIO Pin 21
 
+### Kookye Tank
+
+
 ### Autostart Chromium
 See file autostart
+Add the content /home/pi/.config/lxsession/LXDE-pi/autostart
+
 
