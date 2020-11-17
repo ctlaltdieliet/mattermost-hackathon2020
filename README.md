@@ -6,9 +6,10 @@ Working remotely has an impact on the social connections between your teammember
 There is a lot of attention how to work remotely in a productive way. 
 But humans are not robots yet, We are still social animals. ;)
 With this project teams can make some fun and get to know each other better.
-You can have races with the rover and even start a competition.
+You can have races with one or multiple rover sand even start a competition.
 Or you let it drive through empty workspace from your team.
 Or you can organise your own internal hacakthon on modifying the rover.
+Or you can use it in STEM-education
 
 ## Video
 [![Video](http://img.youtube.com/vi/1a9z1G-1u7s/1.jpg)](http://www.youtube.com/watch?v=1a9z1G-1u7s "Video")
