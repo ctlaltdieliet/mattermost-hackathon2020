@@ -10,6 +10,9 @@ You can have races with the rover and even start a competition.
 Or you let it drive through empty workspace from your team.
 Or you can organise your own internal hacakthon on modifying the rover.
 
+## Video
+[![Video](http://img.youtube.com/vi/1a9z1G-1u7s/1.jpg)](http://www.youtube.com/watch?v=1a9z1G-1u7s "Video")
+
 ## Requirements
 -  Raspberry Pi 3 or 4
 -  Micro SD Card (>=8GB)
